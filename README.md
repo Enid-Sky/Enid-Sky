@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there 👋 
+##### My name is Enid! 
+##### I have almost a decade of professional experience in tech, and I've been coding for almost a year. 
+##### Previously, I was the Tech Manager at a travel tech company, I worked with developers on cruise/hotel booking engines, tools and enhancements... 
+##### Then one day, I realized how much I love coding and got to work on an exciting new career path! Now everday is filled with magic!
+##### Current tool knowledge: HTML, CSS(SASS), Flexbox & Grid, Javascript, Node, Express, and Webpack.   
 
-<!--
-**Enid-Sky/Enid-Sky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### Random facts about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Recently,** I was accepted to attend [HACKBRIGHT ACADEMY](https://hackbrightacademy.com/)
+- 🌱 **I’m currently learning** Python!🐍
+- 👯 **I’m looking to collaborate/contribute on** any app having to do with space!
+- 🤔 **I’m looking for help with** webpack and a broken image issue I can't seem to resolve. 
+- 💬 **Ask me about plants and random space trivia!** I wrote a book called [Creative Terrariums](https://amzn.to/2DrZM2z) and I never miss a rocket launch!
+- ⚡ **Fun fact:** I'm a huge wrestling Fan. My dream is to be front row at Wreselemania...someday.
+
+#### Affiliations: 
+- [Women Who Code](https://www.womenwhocode.com/), a community of women supporting women in tech. 
+- [Techqueria](https://techqueria.org/), a community of LatinX professionals in the tech industry. 
+
+#### Let's connect!
+
+- [twitter](https://twitter.com/codingsprinkles)
+- [Linkedin](https://www.linkedin.com/in/enid-svymbersky/)
+
+
+
+
+
