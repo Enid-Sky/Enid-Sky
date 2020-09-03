@@ -3,8 +3,11 @@
 #### I have almost a decade of professional experience in tech, and I've been coding for almost a year. 
 #### Previously, I was the Tech Manager at a travel tech company, I worked with developers on cruise/hotel booking engines, tools and enhancements... 
 #### Then one day, I realized how much I love coding and got to work on an exciting new career path! Now everday is filled with magic!
-#### Current tool knowledge: HTML, CSS(SASS), Flexbox & Grid, Javascript, Node, Express, and Webpack.   
 
+#### Technologies I've been using lately: 
+
+<img align="left" alt="Node" width="56px" src="https://www.brandeps.com/logo-download/J/JavaScript-logo-vector-01.svg">
+<img align="left" alt="Node" width="56px" src="https://www.brandeps.com/logo-download/W/WebPack-logo-vector-01.svg"><br></br>
 
 #### Random facts about me:
 
