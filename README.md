@@ -11,7 +11,8 @@
 <img align="left" alt="Node" width="56px" src="https://www.brandeps.com/logo-download/S/Sass-logo-vector-01.svg">
 <img align="left" alt="Node" width="56px" src="https://www.brandeps.com/logo-download/J/JavaScript-logo-vector-01.svg">
 <img align="left" alt="Node" width="56px" src="https://www.brandeps.com/logo-download/N/Node-JS-logo-vector-01.svg">
-<img align="left" alt="Node" width="56px" src="https://www.brandeps.com/logo-download/W/WebPack-logo-vector-01.svg"><br></br>
+<img align="left" alt="Node" width="56px" src="https://www.brandeps.com/logo-download/W/WebPack-logo-vector-01.svg">
+<img align="left" alt="Node" width="46px" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png"><br></br>
 
 ### Random facts about me:
 
