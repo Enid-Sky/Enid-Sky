@@ -1,5 +1,4 @@
 <img align='center' alt='header' src='/images/header_2.png'/>
-![](/images/header_2.png)
 
 #### I have almost a decade of professional experience in tech, and I've been coding for almost a year. 
 #### Previously, I was the Tech Manager at a travel tech company, I worked with developers on cruise/hotel booking engines, tools and enhancements... 
