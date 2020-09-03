@@ -1,9 +1,9 @@
 ### Hi there 👋 
-##### My name is Enid! 
-##### I have almost a decade of professional experience in tech, and I've been coding for almost a year. 
-##### Previously, I was the Tech Manager at a travel tech company, I worked with developers on cruise/hotel booking engines, tools and enhancements... 
-##### Then one day, I realized how much I love coding and got to work on an exciting new career path! Now everday is filled with magic!
-##### Current tool knowledge: HTML, CSS(SASS), Flexbox & Grid, Javascript, Node, Express, and Webpack.   
+#### My name is Enid! 
+#### I have almost a decade of professional experience in tech, and I've been coding for almost a year. 
+#### Previously, I was the Tech Manager at a travel tech company, I worked with developers on cruise/hotel booking engines, tools and enhancements... 
+#### Then one day, I realized how much I love coding and got to work on an exciting new career path! Now everday is filled with magic!
+#### Current tool knowledge: HTML, CSS(SASS), Flexbox & Grid, Javascript, Node, Express, and Webpack.   
 
 
 #### Random facts about me:
@@ -24,7 +24,7 @@
 - [twitter](https://twitter.com/codingsprinkles)
 - [Linkedin](https://www.linkedin.com/in/enid-svymbersky/)
 
-
+[![Enid's github stats](https://github-readme-stats.vercel.app/api?username=enid-sky&show_icons=true&theme=radical)](https://github.com/enid-sky/github-readme-stats)
 
 
 
