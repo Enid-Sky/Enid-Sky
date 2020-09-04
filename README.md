@@ -30,7 +30,7 @@
 - 💬 **Ask me about plants and random space trivia!** I wrote a book called [Creative Terrariums](https://amzn.to/2DrZM2z) and I never miss a rocket launch!
 - ⚡ **Fun fact:** I'm a huge wrestling Fan. My dream is to be front row at Wreselemania...someday.
 *****
-### Let's connect!
+### Connect with me:
 
 - [twitter](https://twitter.com/codingsprinkles)
 - [Linkedin](https://www.linkedin.com/in/enid-svymbersky/)
