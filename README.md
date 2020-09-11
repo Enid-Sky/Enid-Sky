@@ -2,7 +2,7 @@
 
 ### Backstory:
 
-#### I have almost a decade of professional experience in tech, and I've been coding for almost a year.  Previously, I was the Tech Manager at a travel tech company, I worked with developers on cruise/hotel booking engines, tools and enhancements... Then one day, I realized how much I love coding and got to work on an exciting new career path! Now everday is filled with magic!
+I have almost a decade of professional experience in tech, and I've been coding for almost a year.  Previously, I was the Tech Manager at a travel tech company, I worked with developers on cruise/hotel booking engines, tools and enhancements... Then one day, I realized how much I love coding and got to work on an exciting new career path! Now everday is filled with magic!
 
 *****
 ### My Stats:
