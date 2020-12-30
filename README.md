@@ -27,12 +27,10 @@ I have almost a decade of professional experience in tech, and I've been coding 
 *****
 ### Random facts about me:
 
-- 🔭 **Recently,** I was accepted to attend [HACKBRIGHT ACADEMY](https://hackbrightacademy.com/)
+- 🔭 **Recently,** completed [HACKBRIGHT ACADEMY](https://hackbrightacademy.com/)
 - 🌱 **I’m currently learning** Python!🐍
 - 👯 **I’m looking to collaborate/contribute on** any app having to do with space!
-- 🤔 **I’m looking for help with** webpack and a broken image issue I can't seem to resolve. 
 - 💬 **Ask me about plants and random space trivia!** I wrote a book called [Creative Terrariums](https://amzn.to/2DrZM2z) and I never miss a rocket launch!
-- ⚡ **Fun fact:** I'm a huge wrestling Fan. My dream is to be front row at Wreselemania...someday.
 *****
 ### Connect with me:
 
