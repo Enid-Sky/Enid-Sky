@@ -2,7 +2,8 @@
 
 ### Backstory:
 
-I have almost a decade of professional experience in tech, and I've been coding for almost two years.  Previously, I was the Tech Manager at a digital marketing company specializing in travel tech. In that role, I onboarded clients and worked with developers on travel apps, cruise/hotel booking engines, tools and enhancements... Then one day, I realized how much I love coding and got to work on an exciting new path! Now everyday is filled with magic! As a recent bootcamp grad, I'm currently on the hunt for a technical position where I can serve as a bridge between client needs and technical solutions. 
+ <p>I'm a knowledgeable and confident technical support engineer with a passion for Software Development! Previously, I was the Tech Manager at a digital marketing company specializing in travel technology. In that role, I onboarded clients and worked with developers on travel apps, cruise/hotel booking engines, marketing tools and site enhancements.   </p>
+                <p>After 9 years in travel technology, I embarked on an epic journey to up my full-stack dev skills. I'm proficient in UX/UI principles, core computer science concepts, pair programming, and created several web applications. As a recent bootcamp grad, I've demonstrated I'm a quick learner, and work great under pressure and deadlines. I'm excited for new opportunities, and I'm currently on the hunt for a technical position where I can serve as a bridge between client needs and technical solutions.</p>
 
 *****
 ### My Stats:
