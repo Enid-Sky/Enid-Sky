@@ -5,7 +5,7 @@
  <p>  I’m a process driven, detail-oriented, self-starter with a passion for Software Development!  As a strategic implementations engineer, I’m enthusisatic about creating memorable onboarding experiences for clients. I also enjoy learning about new technologies, establishing new processes, researching and writing documentation.
 
 ### Backstory:
-<p>After 9 years in travel technology, I embarked on an epic journey to up my full-stack dev skills. I attended Hackbright Academy, a software engineering bootcamp for women in San Francico. I am proficient in UX/UI principles, core computer science concepts, and I have created several web application projects. As a bootcamp grad, I've demonstrated I'm a quick learner, and I work great under pressure and deadlines. 
+<p>After 9 years in travel technology, I embarked on an epic journey to level up my full-stack dev skills. I attended Hackbright Academy - a software engineering bootcamp for women in San Francico. I am proficient in UX/UI principles, core computer science concepts, and I've created several web application projects. As a bootcamp grad, I've demonstrated I'm a quick learner, and I work great under pressure and deadlines. 
 
 <p></p>
 
