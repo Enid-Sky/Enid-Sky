@@ -1,9 +1,15 @@
 ![header_2](https://user-images.githubusercontent.com/43654264/92176156-bef7c980-edf2-11ea-9bf2-fa595d764f7f.png)
 
-### Backstory:
+### About Me:
 
- <p>I'm a knowledgeable and confident technical support engineer with a passion for Software Development! Previously, I was the Tech Manager at a digital marketing company specializing in travel technology. In that role, I onboarded clients and worked with developers on travel apps, cruise/hotel booking engines, marketing tools and site enhancements.   </p>
-                <p>After 9 years in travel technology, I embarked on an epic journey to up my full-stack dev skills. I'm proficient in UX/UI principles, core computer science concepts, pair programming, and created several web applications. As a recent bootcamp grad, I've demonstrated I'm a quick learner, and work great under pressure and deadlines. I'm excited for new opportunities, and I'm currently on the hunt for a technical position where I can serve as a bridge between client needs and technical solutions.</p>
+ <p>  I’m a process driven, detail-oriented, self-starter with a passion for Software Development!  As a strategic implementations engineer I’m enthusisatic about creating memorable onboarding experiences for clients. I also enjoy learning about new technologies, establishing new processes,researching and writing documentation.
+
+### Backstory:
+<p>After 9 years in travel technology, I embarked on an epic journey to up my full-stack dev skills. I attended Hackbright Academy, a software engineering bootcamp for women in San Francico. I am proficient in UX/UI principles, core computer science concepts, and I have created several web application projects. As a bootcamp grad, I've demonstrated I'm a quick learner, and I work great under pressure and deadlines. 
+
+<p></p>
+
+I'm excited for new opportunities, and I'm currently on the hunt for a technical position where I can serve as a bridge between client needs and technical solutions.</p>
 
 *****
 ### My Stats:
@@ -26,13 +32,7 @@
 - [Women Who Code](https://www.womenwhocode.com/), a community of women supporting women in tech. 
 - [Techqueria](https://techqueria.org/), a community of LatinX professionals in the tech industry. 
 *****
-### Random facts about me:
 
-- 🔭 **Recently,** completed [HACKBRIGHT ACADEMY](https://hackbrightacademy.com/)
-- 🌱 **I’m currently learning** Python!🐍
-- 👯 **I’m looking to collaborate/contribute on** any app having to do with space!
-- 💬 **Ask me about plants and random space trivia!** I wrote a book called [Creative Terrariums](https://amzn.to/2DrZM2z) and I never miss a rocket launch!
-*****
 ### Connect with me:
 
 - [twitter](https://twitter.com/codingsprinkles)
